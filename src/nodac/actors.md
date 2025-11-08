@@ -11,16 +11,16 @@ Unterhalb des Hauptmenus von nodac findet sich eine Leiste mit der Möglichkeit 
 - Klick auf das Pluszeichen ermöglicht einen Akteur zu erfassen.
 
 ## Startseite
-Die Startseite von nodac: Akteure ist mehrspaltig konzipiert. In der linken Spalte findet sich die für spezifische Navigation mit Such- und Eingrenzungsmöglichkeiten. Im zentralen Bereich Kacheln die den Stand der Bearbeitung veranschaulichen, aber auch als Schnellzugriff konzipiert sind. Die rechte Spalte zeigt Visualisierungen des Bearbeitungsstandes.
+Die Startseite von nodac: Akteure ist mehrspaltig konzipiert. In der linken Spalte findet sich die spezifische Navigation mit Such- und Eingrenzungsmöglichkeiten, im zentralen Bereich Kacheln die den Stand der Bearbeitung veranschaulichen, aber auch als Schnellzugriff konzipiert sind. Die rechte Spalte zeigt Visualisierungen des Bearbeitungsstandes.
 
 ![Übersicht der Startseite von nodac: Akteure](../assets/nodac/nodac_actors_startseite_uebersicht.jpg)
 
 ### Akteure: Navigation
 Die Navigationsspalte von nodac: Akteure wird auf der Startseite und bei den Trefferlisten angezeigt. Bei der Einzelbearbeitung ist sie ausgeblendet.
 
-Die Symbolmenu, am oberen Rand der Navigationsspalte enthält folgende Schalter:
+Das Symbolmenu am oberen Rand der Navigationsspalte enthält folgende Schalter:
 
-- Die Pagode führt zur Startseite zurück. Sie hat damit die gleiche Funktion wie ein Anklicken von "Abschicken" im Auswahlmenu für die Vokabulare.
+- Die Pagode führt zur Startseite zurück. Sie hat damit die gleiche Funktion wie ein Anklicken von "Akteure" im Auswahlmenu für die Vokabulare.
 - Der linke der zwei Schalter welche Personen mit rotem Verbindungspfeil führt zu einer Suche nach Dublikaten. Es wird nach gleichen Namen gesucht.
 - Der rechte dieser Schalter führt ebenfalls zu einer Dublikat-Suche. Es wird nach gleichen Normdatenbezügen gesucht.
 - Das "x" zeigt die Blacklist, eine Liste von Begriffen, welche das System ignoriert. Im Falle von museum-digital sind das vor allem nicht individualisierbare Entitäten. Wird nodac: Akteure für ein externes Akteurverzeichnis verwendet, dann können andere Regeln gelten.

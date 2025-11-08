@@ -2,7 +2,7 @@
 
 Auf dieser Seite finden sich Hinweise zur Verwaltung, Bearbeitung und Anreicherung von Informationen zu Schlagworten mit dem nodac-Werkzeug. Am unteren Seitenende ist ein entsprechendes Video eingebunden.
 
-![Auswahl des Menupunktes Akteure](../assets/nodac/vocswitch_tags.jpg)
+![Auswahl des Menupunktes Schlagworte](../assets/nodac/vocswitch_tags.jpg)
 
 Unterhalb des Hauptmenus von nodac findet sich eine Leiste mit der Möglichkeit ein zu bearbeitendes Vokabular auszuwählen. Es erscheinen hier nur die Vokabulare für welche der aktuelle Bearbeiter freigeschaltet ist. Ist ein Vokabular ausgewählt, so wird der entsprechende Bereich farbig hervorgehoben. Hinter dem Namen des Vokabulars erscheinen zwei Symbole. Für jedes Vokabular gibt es damit drei Möglichkeiten des Einstiegs:
 
@@ -13,7 +13,7 @@ Unterhalb des Hauptmenus von nodac findet sich eine Leiste mit der Möglichkeit 
 ## Startseite
 Die Startseite von nodac: Schlagworte ist mehrspaltig konzipiert. In der linken Spalte findet sich die spezifische Navigation mit Such- und Eingrenzungsmöglichkeiten, im zentralen Bereich Kacheln die den Stand der Bearbeitung veranschaulichen, aber auch als Schnellzugriff konzipiert sind. Die rechte Spalte zeigt Visualisierungen des Bearbeitungsstandes.
 
-![Übersicht der Startseite von nodac: Akteure](../assets/nodac/nodac_tags_startseite_uebersicht.jpg)
+![Übersicht der Startseite von nodac: Schlagworte](../assets/nodac/nodac_tags_startseite_uebersicht.jpg)
 
 ### Schlagworte: Navigation
 Die Navigationsspalte von nodac: Schlagworte wird auf der Startseite und bei den Trefferlisten angezeigt. Bei der Einzelbearbeitung ist sie ausgeblendet.
@@ -25,7 +25,9 @@ Das Symbolmenu am oberen Rand der Navigationsspalte enthält folgende Schalter:
 - Die "liegende Stimmgabel" führt zu einer Suche nach mehrfach gespeicherten Beziehungen.
 - Der "schrägstehende Hufeisenmagnet" führt zu einer Suche nach hierarchischen Beziehungen erster Generation, d.h. Begriffen, die sich selbst unter- oder übergeordnet sind.
 - Der "Mann mit dem Krückstock" führt zu einer Suche nach hierarchischen Beziehungen zweiter Generation, d.h. ein Begriff ist einem anderen Begriff über- oder untergeordnet und zugleich dessen über- oder untergeordneter Begriff.
-- Das "x" zeigt die Blacklist, eine Liste von Begriffen, welche das System ignoriert. Im Falle von museum-digital sind das vor allem nicht individualisierbare Entitäten. Wird nodac: Akteure für ein externes Akteurverzeichnis verwendet, dann können andere Regeln gelten.
+- Das "x" zeigt die Blacklist, eine Liste von Begriffen, welche das System ignoriert. Im Falle von museum-digital sind das vor allem mit Homonymzusätzen zu versehende Entitäten. Wird nodac: Schlagworte für ein externes Begriffsverzeichnis verwendet, dann können andere Regeln gelten.
+
+
 Seite wird vervollständigt.
 
 

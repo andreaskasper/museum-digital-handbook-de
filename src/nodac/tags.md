@@ -27,6 +27,28 @@ Das Symbolmenu am oberen Rand der Navigationsspalte enthält folgende Schalter:
 - Der "Mann mit dem Krückstock" führt zu einer Suche nach hierarchischen Beziehungen zweiter Generation, d.h. ein Begriff ist einem anderen Begriff über- oder untergeordnet und zugleich dessen über- oder untergeordneter Begriff.
 - Das "x" zeigt die Blacklist, eine Liste von Begriffen, welche das System ignoriert. Im Falle von museum-digital sind das vor allem mit Homonymzusätzen zu versehende Entitäten. Wird nodac: Schlagworte für ein externes Begriffsverzeichnis verwendet, dann können andere Regeln gelten.
 
+**Such- und Auswahlmöglichkeiten**
+Direkt unter dem Symbolmenu findet sich ein Suchschlitz mit dem eine einfache Buchstabensuche durchgeführt werden kann. Groß-/Kleinschreibung wird dabei nicht berücksichtigt. Eine zweite Suchmöglichkeit bietet das darunter angebrachte Eingabefeld ("ID in ..."). Mehrere IDs können hier durch Komma getrennt (ohne Leerzeichen hinter dem Komma) eingegeben werden. Nach Abschicken ("Go!) erscheint die entsprechende Trefferliste.
+
+Die nächste Sektion der Spalte bietet Sortiermöglichkeiten:
+
+- Die Sortierung nach ID, die einer Sortierung nach Erfassungszeit entspricht, ist die Standardeinstellung.
+- Die Sortierung nach Alphabet ermöglicht es eine Treffermenge entsprechend zu sortieren.
+- Über "Zuletzt geändert" lassen sich Treffermengen nach Änderungsdatum sortieren.
+- Die Sortierung nach Namenslänge ermöglicht eine vorhandene Treffermenge nach der Anzahl der Buchstaben der einzelnen Schlagworte zu sortieren.
+
+Es folgt die Sektion "Reihenfolge" mit zwei Schaltern mit denen eine Treffermenge in einer gewählten Sortierung auf- oder absteigend angeordnet werden kann.
+
+Die folgende Sektion ist mit "Auswahl" betitelt. Sie bietet die Möglichkeiten:
+
+- Alle zeigen: Es werden alle Schlagworte aufgelistet
+- Nur geprüfte: Schlagworte, die von der Redaktion als geprüft markiert wurden werden aufgelistet.
+- Nur unbearbeitete: Listet Schlagworte, die von der Redaktion nicht als geprüft oder als fraglich gekennzeichnet wurden.
+- Nur fragliche: Listet ausschließlich als fraglich markierte Schlagworte.
+- Nur ungeprüfte: Führt zu einer Treffermenge aller unbearbeiteten und aller als fraglich markierten Schlagworte.
+
+Die Sektion "Fehlende Information" bietet verschiedene Filtermöglichkeiten.
+
 
 Seite wird vervollständigt.
 
